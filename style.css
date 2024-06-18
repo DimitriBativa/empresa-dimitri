@@ -1,6 +1,8 @@
 html {
   height: 100%;
   width: 100%;
+  background-color: black;
+  color: whitesmoke;
 }
 
 .logo {
@@ -8,6 +10,19 @@ html {
 }
 
 p {
-text-align: center;
-font-size: 24px;
+  text-align: center;
+  font-size: 24px;
+}
+
+p.slogan {
+  color: yellow;
+}
+
+a {
+  color: darkred;
+}
+
+ul li {
+  color: gold;
+  margin: 5px;
 }

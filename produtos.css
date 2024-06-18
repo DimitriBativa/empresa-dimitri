@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: whitesmoke;
+}
+
+header{
+  background-image: url("fundodegrade.JPEG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 0%;
+}
+
+
+.logo {
+  width: 45%;
+}
+
+img.pizzasimagens {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    display: flex;
+  align-items: center;
+}
+
+span.preco {
+    font-size: 1.2em;
+    color: #a7cb15;
+    font-weight: bold;
+  align-items: center;
+}
+
+
+p {
+  display: flex;
+  font-size: 24px;
+  align-items: center;
+}
+
+a {
+  color: darkred;
+}
+
+a.voltar {
+   display: grid;
+    font-size: 25px;
+    }
+
+ul {
+  list-style-type: none;
+}
