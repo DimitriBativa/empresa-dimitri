@@ -53,3 +53,31 @@ a.voltar {
 ul {
   list-style-type: none;
 }
+
+.input-padrao{
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 50%;
+  font-weight: bold;
+  background: floralwhite;
+}
+
+.input-descricao{
+  display: block;
+  background: floralwhite;
+  margin: 0 0 20px;
+  padding: 50px 30px;
+  width: 50%;
+}
+
+.enviar{
+  width: 40%;
+  padding: 15px 0;
+  background: floralwhite;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
