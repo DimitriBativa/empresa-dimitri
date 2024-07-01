@@ -81,3 +81,21 @@ ul {
   border-radius: 5px;
   cursor: pointer;
 }
+
+.final{
+  position: absolute;
+  display: flex;
+  font-size: 15px;
+  bottom: 0;
+  margin: 0; 
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+footer{
+  position: relative;
+  background-color: darkred;
+  margin-top: 20px;
+  padding: 10px;
+  border-top: 3px solid #black;
+}
