@@ -42,7 +42,7 @@ p {
 }
 
 a {
-  color: darkred;
+  color: #4d0000;
 }
 
 a.voltar {
@@ -71,6 +71,22 @@ ul {
   width: 50%;
 }
 
+table{
+  margin: 20px 0 40px 0;
+}
+
+thead{
+  background: #ad0101;
+  color: #504e4e;
+  font-weight: bold;
+}
+
+th, td {
+  border: 1px solid #ad0101;
+  color: #504e4e;
+  padding: 8px 15px;
+}
+
 .enviar{
   width: 40%;
   padding: 15px 0;
@@ -94,8 +110,8 @@ ul {
 
 footer{
   position: relative;
-  background-color: darkred;
+  background-color: #ad0101;
   margin-top: 20px;
   padding: 10px;
-  border-top: 3px solid #black;
+  border-top: 3px solid black;
 }
