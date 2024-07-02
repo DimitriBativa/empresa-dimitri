@@ -15,7 +15,7 @@ header{
 
 
 .logo {
-  width: 45%;
+  width: 25%;
 }
 
 img.pizzasimagens {
@@ -58,7 +58,7 @@ ul {
   display: block;
   margin: 0 0 20px;
   padding: 10px 25px;
-  width: 50%;
+  width: 15%;
   font-weight: bold;
   background: floralwhite;
 }
@@ -68,7 +68,7 @@ ul {
   background: floralwhite;
   margin: 0 0 20px;
   padding: 50px 30px;
-  width: 50%;
+  width: 25%;
 }
 
 table{
@@ -77,18 +77,18 @@ table{
 
 thead{
   background: #ad0101;
-  color: #504e4e;
+  color: #6b6b6b;
   font-weight: bold;
 }
 
 th, td {
   border: 1px solid #ad0101;
-  color: #504e4e;
+  color: #6b6b6b;
   padding: 8px 15px;
 }
 
 .enviar{
-  width: 40%;
+  width: 4%;
   padding: 15px 0;
   background: floralwhite;
   font-weight: bold;
